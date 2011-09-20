@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<root>
+	<list>
+
+		<item>
+			<name>Hyper App Switch</name>
+			<identifier>private.hyper_app_switch</identifier>
+
+			<autogen>--KeyToKey-- KeyCode::SPACE, ModifierFlag::COMMAND_L, KeyCode::TAB, ModifierFlag::COMMAND_L</autogen>
+			<autogen>--KeyToKey-- KeyCode::SPACE, ModifierFlag::OPTION_L, KeyCode::BACKQUOTE, ModifierFlag::COMMAND_L</autogen>
+
+			<autogen>--KeyToKey-- KeyCode::TAB, ModifierFlag::COMMAND_L, KeyCode::EXPOSE_ALL</autogen>
+			<autogen>--KeyToKey-- KeyCode::BACKQUOTE, ModifierFlag::COMMAND_L, KeyCode::DASHBOARD</autogen>
+
+		</item>
+
+	</list>
+</root>
