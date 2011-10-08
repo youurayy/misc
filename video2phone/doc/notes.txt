@@ -1,0 +1,14 @@
+
+480 x 320
+
+http://code.google.com/p/vs4p/source/browse/trunk/iphone/tv-to-iphone.sh
+
+http://h264.code-shop.com/trac/wiki/Encoding
+
+https://trac.handbrake.fr/wiki/BuiltInPresets
+
+http://en.wikipedia.org/wiki/IPhone_3GS
+
+http://www.ffmpeg.org/ffmpeg-doc.html
+
+http://blog.dest-unreach.be/2009/09/08/h264-limits-for-iphone
