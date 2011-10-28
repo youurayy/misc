@@ -11,7 +11,14 @@
 
 			<autogen>--KeyToKey-- KeyCode::TAB, ModifierFlag::COMMAND_L, KeyCode::EXPOSE_ALL</autogen>
 			<autogen>--KeyToKey-- KeyCode::BACKQUOTE, ModifierFlag::COMMAND_L, KeyCode::DASHBOARD</autogen>
+			
+		</item>
 
+		<item>
+			<name>map (otherwise unused) right option key to CMD+OPT+CTRL+D to show/hide TextMate's Project Drawer easily</name>
+			<identifier>private.quick_textmate_drawer</identifier>
+
+			<autogen>--KeyToKey-- KeyCode::OPTION_R, KeyCode::D, ModifierFlag::COMMAND_R | ModifierFlag::CONTROL_L | ModifierFlag::OPTION_R</autogen>
 		</item>
 
 	</list>
