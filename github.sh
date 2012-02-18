@@ -20,5 +20,5 @@ alias gitrem='git ls-files -z -d --exclude-standard | xargs -0 git rm'
 function gitcom() {
         comment="$*"
         if [ -z "$comment" ]; then comment='update'; fi;
-        git commit -a -m "$comment" && git push;
+        git commit -a -m "$comment" && git push -u origin master;
 }
